@@ -87,3 +87,6 @@ Safety: 비상정지 반응속도 향상
 - Test: 테스트 결과/범위
 - Reference: 참고한 규격/문서
 - Related: 관련된 이슈/문서
+
+## Safety
+- Safetyinterlock 기능추가

@@ -88,5 +88,10 @@ Safety: 비상정지 반응속도 향상
 - Reference: 참고한 규격/문서
 - Related: 관련된 이슈/문서
 
+<<<<<<< HEAD
 ## control
 - servo=control 기능 추가
+=======
+## Safety
+- Safetyinterlock 기능추가
+>>>>>>> feature/safety-interlock
